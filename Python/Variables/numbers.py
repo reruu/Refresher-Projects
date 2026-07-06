@@ -10,5 +10,11 @@ float: real numbers (e.g., 1.32, 0.98)
 '''
 var = 69.21
 print(var)
-
 print(f'var = {var}')
+
+#Print numbers using math equations
+print(3 + 3)
+print(2 * 5)
+
+#You can combine text and numbers in one output by separating them with a comma:
+print("I am", 35, "years old.")
