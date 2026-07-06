@@ -19,3 +19,10 @@ hello = "hello"
 
 print(one + two + hello)
 '''
+squared = 7 ** 2
+cubed = 2 ** 3
+print(squared)
+print(cubed)
+
+
+

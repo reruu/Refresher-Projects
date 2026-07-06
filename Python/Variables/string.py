@@ -20,3 +20,5 @@ x, y, z = "Orange", "Banana", "Cherry"
 fruits = ['apple', 'banana', 'cherry']
 a, b, c = fruits
 print(a)
+
+user_input = None
